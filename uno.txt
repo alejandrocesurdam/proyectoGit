@@ -4,4 +4,8 @@ Primera linea
 Segunda linea
 Segunda linea
 Segunda línea
+<<<<<<< HEAD
+>>>>>>> RamaDos
+=======
+tercera linea
 >>>>>>> RamaDos
